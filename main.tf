@@ -7,7 +7,7 @@ locals {
 
 provider "aws" {
   region = "us-east-2"
-  shared_credentials_file = "/mnt/c/Users/elicio/.aws/credentials"
+  shared_credentials_file = "{credentials_file}"
   profile = "terraform_user"
 }
 
