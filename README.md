@@ -1,2 +1,2 @@
 # devops
-Repositorie to learn and pratice DecOps fundamentals
+Repositorie to learn and pratice DevOps fundamentals
